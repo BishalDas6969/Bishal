@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BishalDas
 - 👀 I’m interested in making custom roms
-- 🌱 I’m currently learning git
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on AOSP Projects
 - 📫 How to reach me :
 - Instagram : https://www.instagram.com/bishalll_das
