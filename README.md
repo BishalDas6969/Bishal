@@ -7,8 +7,8 @@
 <p align="left">
   
 <a href="https://twitter.com/TheBishalDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bishal" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/bishalll_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bishal" height="30" width="40" /></a> 
+<a href="https://instagram.com/bishalll_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bishal" height="30" width="40" /></a>
+<a href="https://t.me/its_bishal" target="blank"><img align="center" src="https://telegra.ph/file/6007b777cf726face04c0.png" alt="Bishal" height="25" width="30" /></a>  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BishalDas6969&show_icons=true&locale=en&layout=compact" alt="Bishal" /></p>
