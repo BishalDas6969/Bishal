@@ -9,6 +9,6 @@
 <a href="https://instagram.com/bishalll_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bishal" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishal&show_icons=true&locale=en&layout=compact" alt="Bishal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BishalDas6969&show_icons=true&locale=en&layout=compact" alt="Bishal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal&show_icons=true&locale=en" alt="Bishal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BishalDas6969&show_icons=true&locale=en" alt="Bishal" /></p>
